@@ -13,7 +13,7 @@ Sentor landing page made with Html and Css.
 
 ## Deployment
 
-Deployed on Vercel: [Airbnb Clone](https://sentor-ten.vercel.app/)
+Deployed on Vercel: [Sentor](https://sentor-ten.vercel.app/)
 
 ## License
 
